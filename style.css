@@ -72,3 +72,11 @@ html, body {
     height: 32px;
     font-size: 1em;
 }
+.form-input textarea{
+    width: 100%;
+    font-size: 1em;
+}
+.btn{
+    font-size: 1em;
+    height: 32px;
+}
